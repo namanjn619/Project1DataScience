@@ -1,0 +1,11 @@
+1) Git and Git hub Repository Setup
+2) Project Setup
+3) Requirement.txt Setup
+
+
+
+******************************
+Step - 1: Making a new enviorment in my desired folder
+Step - 2: Activating the enviorment
+Step - 3: Make a Repository on git
+Step - 4: 
