@@ -5,7 +5,25 @@
 
 
 ******************************
+**Video - 1 - Setting up Enviorment, Git, Folder Structure, setup file **
 Step - 1: Making a new enviorment in my desired folder
 Step - 2: Activating the enviorment
 Step - 3: Make a Repository on git
-Step - 4: 
+Step - 4: git init in terminal of project folder
+Step - 5: add and commit your files
+Step - 6: make a Master git branch
+Step - 7: add your git origin
+Step - 8: Push your files on git
+Step - 9: creating a .gitignore file on git to put venv files
+Step - 10: pulling .gitignore file to local by "git pull origin master/main"
+Step - 11: creating requirements.txt file and writing all pyhon libraries you require
+Step - 12: "pip install -r requirements.txt" to install all libraries
+Step - 13: Setting Setup.py file for Packaging our project to import *
+Step - 14: Creating src folder
+Step - 15: putting "__init__.py" file inside src folder
+Step - 16: Running package making using __init__.py file by running command "python setup.py install"
+Step - 17: Till here a build will be created which will be the package of your entire code
+Step - 18: Add, Commit and push your day's progress
+
+**Video - 2 - Setting up Enviorment, Git, Folder Structure, setup file **
+Step - 19: 
