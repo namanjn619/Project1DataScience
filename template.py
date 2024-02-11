@@ -3,7 +3,7 @@ from pathlib import Path
 import logging
 
 logging.basicConfig(level = logging.INFO)
-project_name = "Project1 End to End Data Science"
+project_name = "project1ml"
 
 list_of_file = [
     f"src/{project_name}/__init__.py",
